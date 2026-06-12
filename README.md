@@ -1,8 +1,7 @@
 <!-- Save this as the README.md in a repo named `6ixE11even` (same as your username) -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Tejas%20Pandya&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Quant%20Researcher%20%C2%B7%20Quant%20Dev%20%C2%B7%20C%2B%2B%20%26%20ML&descSize=20&descAlignY=60" width="100%"/>
-</div>
+<h1 align="center">Tejas Pandya</h1>
+<h3 align="center">⚡ Quant Researcher · Quant Dev · C++ &amp; ML ⚡</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Front-office+quant+research+%2B+low-latency+C%2B%2B;From-scratch+ML+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Risk&font=Fira+Code&center=true&width=620&height=45&color=06b6d4&vCenter=true&size=21&pause=1000" alt="typing" />
@@ -74,5 +73,5 @@ Quant with a foot in both worlds: **3 years owning market-risk infrastructure at
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
+  <sub><i>Front-office quant in the making — always building. ⚡</i></sub>
 </div>
