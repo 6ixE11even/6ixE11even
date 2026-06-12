@@ -1,53 +1,78 @@
-# Tejas Pandya
+<!-- Save this as the README.md in a repo named `6ixE11even` (same as your username) -->
 
-**Quantitative researcher & risk analyst — NYU MSFE (3.9 CGPA) · ex-Nomura Market Risk · C++ / Python systems builder**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Tejas%20Pandya&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Quant%20Researcher%20%C2%B7%20Quant%20Dev%20%C2%B7%20C%2B%2B%20%26%20ML&descSize=20&descAlignY=60" width="100%"/>
+</div>
 
-I build the bridge between production risk discipline and front-office research: turning messy market data into validated, automated, decision-grade systems. Three years owning market-risk infrastructure at Nomura across equities, rates, FX, and commodities — now applying the same rigor to alpha signals, derivatives pricing, and low-latency systems through my Master's in Financial Engineering at NYU Tandon.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Front-office+quant+research+%2B+low-latency+C%2B%2B;From-scratch+ML+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Risk&font=Fira+Code&center=true&width=620&height=45&color=06b6d4&vCenter=true&size=21&pause=1000" alt="typing" />
+</div>
 
-- **Focus:** portfolio strategy & risk, factor / regime research, derivatives pricing, low-latency C++
-- **Currently:** MS Financial Engineering @ NYU Tandon (graduating Dec 2026) · open to quant research / risk / strats roles
-- **Toolbox:** Python · C++ · SQL · scikit-learn · QuantLib · Tableau
+<div align="center">
+  <a href="https://linkedin.com/in/tejaspandya9598"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/6ixE11even/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/6ixE11even"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://github.com/6ixE11even"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tbp8777@nyu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=6ixE11even&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
-### Focus areas
+## 👋 About me
 
-- **Risk & portfolio analytics** — VaR, sensitivities, FRTB/Basel, factor exposures, P&L attribution, stress testing
-- **Quantitative research** — regime detection, time-series & factor models, statistical/ML signal research, backtesting
-- **Derivatives & pricing** — SOFR curve construction, Monte Carlo / FDM option pricing, P&L decomposition
-- **Low-latency systems** — C++20 limit-order-book matching engine, market-data pipelines, anomaly detection
+Quant with a foot in both worlds: **3 years owning market-risk infrastructure at Nomura** (equities, rates, FX, commodities) and an **NYU MS in Financial Engineering (3.9 CGPA)** turning that into front-office research and low-latency systems. I like building things from first principles — regime models, derivatives pricers, an order-book matching engine — and proving they're correct.
 
----
+- 🔭 Moving into **quant research / quant dev** roles
+- 🧠 Comfortable across **statistical ML, stochastic calculus, and systems C++**
+- 📜 **CFA Level I** · CFI FMVA · Bloomberg Market Concepts
 
-### Featured projects
+## 🛠️ Toolbox
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Macro-Regime Forecasting & Allocation](#) | PCA/K-Means regime detection on 120+ indicators (86% recall); 2× equal-weight benchmark out-of-sample | Python, scikit-learn |
-| [Interest-Rate-Swap Valuation & P&L Attribution](#) | SOFR-curve pricer within <1 bp of Bloomberg; daily P&L decomposed into carry/roll/curve | Python |
-| [Market-Manipulation Detection (HFT LOB)](#) | Level-2 microstructure features + gradient-boosted classifiers for spoofing/layering detection | Python, XGBoost/LightGBM |
-| [C++20 Limit Order Book Matching Engine](#) | Deterministic O(1) insert/cancel/execute with custom memory pooling | C++20, Linux |
-| [Options Pricing Engine (C++)](#) | European/American options via Monte Carlo & Crank-Nicolson, within 0.5% of Black-Scholes | C++ |
+| [**SOFR Swap P&L Attribution**](https://github.com/6ixE11even/sofr-swap-pnl-attribution) · *May 2026* | Bootstrap a SOFR curve, price swaps, attribute daily P&L into carry / roll-down / level-slope-curvature | `Python` |
+| [**LOB Market-Manipulation Detection**](https://github.com/6ixE11even/lob-market-manipulation-detection) · *Apr 2026* | Unsupervised anomaly detection (Isolation Forest / ECOD / autoencoder) on HFT order-book data — Kaggle | `Python` `PyTorch` |
+| [**ML Algorithms From Scratch**](https://github.com/6ixE11even/ml-algorithms-from-scratch) · *Mar 2026* | Classic ML built by hand in NumPy, benchmarked to match scikit-learn | `NumPy` |
+| [**HFT Matching Engine**](https://github.com/6ixE11even/hft-matching-engine) · *Feb 2026* | C++20 limit-order-book with O(1) ops + memory pool, ~35M msgs/sec | `C++20` |
+| [**Macro-Regime Allocation**](https://github.com/6ixE11even/macro-regime-allocation) · *Dec 2025* | PCA + KMeans macro-regime detection driving a tactical asset-allocation backtest | `Python` |
+| [**Commodity Futures Analysis**](https://github.com/6ixE11even/commodity_futures_settlement_price_analysis) · *Nov 2025* | WTI / Henry Hub settlement anomalies + term structure, with a Streamlit dashboard | `Python` `Plotly` |
+| [**Options Pricing Engine**](https://github.com/6ixE11even/options-pricing-engine) · *Oct 2025* | C++ Black-Scholes / Monte Carlo / Crank-Nicolson FDM — European, American, Barrier | `C++20` |
 
-<!-- TODO: replace each (#) with the real repo URL once these are pinned. -->
+## 📈 GitHub stats
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=6ixE11even&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ixE11even&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</div>
 
-### Toolbox
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6ixE11even&hide_border=true&theme=tokyonight" />
+</div>
 
-**Languages:** Python (Pandas, NumPy), C/C++ (STL, Boost), SQL
-**ML & stats:** scikit-learn, XGBoost, LightGBM, PyTorch, PCA/clustering, hypothesis testing, time-series
-**Quant & numerical:** QuantLib, SciPy, Statsmodels, Monte Carlo / FDM, stochastic calculus
-**Data & tools:** Tableau, Power BI, Bloomberg Terminal, Git, REST APIs, Linux
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=6ixE11even&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
-**Certifications:** CFA Level I · Bloomberg Market Concepts (BMC) · CFI® FMVA · Baruch's C++ for Financial Engineering
+## 🧩 Competitive programming
 
----
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/6ixE11even?theme=dark&font=Fira%20Code&ext=contest" width="500" />
+</div>
 
-### Connect
-
-- LinkedIn: [linkedin.com/in/tejaspandya9598](https://linkedin.com/in/tejaspandya9598)
-- Email: tbp8777@nyu.edu
-
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=6ixE11even&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6ixE11even&hide_border=true)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
+</div>
