@@ -62,10 +62,6 @@ Quant with a foot in both worlds: **3 years owning market-risk infrastructure at
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=6ixE11even&hide_border=true&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=6ixE11even&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
 ## 🧩 Competitive programming
 
 <div align="center">
