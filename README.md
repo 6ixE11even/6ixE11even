@@ -44,11 +44,15 @@ Quant with a foot in both worlds: **3 years owning market-risk infrastructure at
 | Project | What it does | Stack |
 |---|---|---|
 | [**SOFR Swap P&L Attribution**](https://github.com/6ixE11even/sofr-swap-pnl-attribution) · *May 2026* | Bootstrap a SOFR curve, price swaps, attribute daily P&L into carry / roll-down / level-slope-curvature | `Python` |
-| [**LOB Market-Manipulation Detection**](https://github.com/6ixE11even/lob-market-manipulation-detection) · *Apr 2026* | Unsupervised anomaly detection (Isolation Forest / ECOD / autoencoder) on HFT order-book data — Kaggle | `Python` `PyTorch` |
+| [**Optimal Execution (Almgren–Chriss)**](https://github.com/6ixE11even/optimal-execution) · *May 2026* | Optimal liquidation trajectory + cost/risk efficient frontier; impact calibrated from Deribit | `Python` |
+| [**LOB Market-Manipulation Detection**](https://github.com/6ixE11even/lob-market-manipulation-detection) · *Apr 2026* | Unsupervised anomaly detection (Isolation Forest / ECOD / autoencoder) on HFT order books — Kaggle | `Python` `PyTorch` |
 | [**ML Algorithms From Scratch**](https://github.com/6ixE11even/ml-algorithms-from-scratch) · *Mar 2026* | Classic ML built by hand in NumPy, benchmarked to match scikit-learn | `NumPy` |
+| [**SABR Vol Calibration**](https://github.com/6ixE11even/sabr-vol-calibration) · *Mar 2026* | Calibrate the SABR smile (Hagan) to a live Deribit BTC option chain | `Python` |
 | [**HFT Matching Engine**](https://github.com/6ixE11even/hft-matching-engine) · *Feb 2026* | C++20 limit-order-book with O(1) ops + memory pool, ~35M msgs/sec | `C++20` |
+| [**Statistical Arbitrage Backtester**](https://github.com/6ixE11even/stat-arb-backtester) · *Jan 2026* | Cointegration pairs trading on live Deribit crypto, event-driven backtest | `Python` |
 | [**Macro-Regime Allocation**](https://github.com/6ixE11even/macro-regime-allocation) · *Dec 2025* | PCA + KMeans macro-regime detection driving a tactical asset-allocation backtest | `Python` |
-| [**Commodity Futures Analysis**](https://github.com/6ixE11even/commodity_futures_settlement_price_analysis) · *Nov 2025* | WTI / Henry Hub settlement anomalies + term structure, with a Streamlit dashboard | `Python` `Plotly` |
+| [**Commodity Futures Analysis**](https://github.com/6ixE11even/commodity_futures_settlement_price_analysis) · *Nov 2025* | WTI / Henry Hub settlement anomalies + term structure, Streamlit dashboard | `Python` `Plotly` |
+| [**Prediction-Market Analytics**](https://github.com/6ixE11even/prediction-markets) · *Nov 2025* | Live Polymarket cross-outcome arbitrage + probability calibration | `Python` |
 | [**Options Pricing Engine**](https://github.com/6ixE11even/options-pricing-engine) · *Oct 2025* | C++ Black-Scholes / Monte Carlo / Crank-Nicolson FDM — European, American, Barrier | `C++20` |
 
 ## 📈 GitHub stats
