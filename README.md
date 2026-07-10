@@ -1,77 +1,73 @@
-<!-- Save this as the README.md in a repo named `6ixE11even` (same as your username) -->
-
 <h1 align="center">Tejas Pandya</h1>
-<h3 align="center">⚡ Quant Researcher · Quant Dev · C++ &amp; ML ⚡</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Front-office+quant+research+%2B+low-latency+C%2B%2B;From-scratch+ML+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Risk&font=Fira+Code&center=true&width=620&height=45&color=06b6d4&vCenter=true&size=21&pause=1000" alt="typing" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Front-office+quant+research+%2B+low-latency+C%2B%2B;Alpha+research+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Risk&font=Fira+Code&center=true&width=620&height=45&color=06b6d4&vCenter=true&size=21&pause=1000" alt="headline">
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/tejaspandya9598"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/6ixE11even/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://codeforces.com/profile/6ixE11even"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://github.com/6ixE11even"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:tbp8777@nyu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=6ixE11even&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/tejaspandya9598"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/6ixE11even/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/6ixE11even"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="mailto:tbp8777@nyu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=6ixE11even&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="views">
+</p>
+
+I build quant research and trading infrastructure. Three years running market-risk
+systems at Nomura (VaR, FRTB, multi-asset) taught me how production breaks; the
+projects below are me building the research stack on top of that — signals,
+pricing, backtests, and the low-latency plumbing underneath.
+
+`CFA Level I` · `C++ for Financial Engineering (Baruch MFE)` · `Bloomberg Market Concepts` · `CFI FMVA`
 
 ---
 
-## 👋 About me
-
-Quant with a foot in both worlds: **3 years owning market-risk infrastructure at Nomura** (equities, rates, FX, commodities) and an **NYU MS in Financial Engineering (3.9 CGPA)** turning that into front-office research and low-latency systems. I like building things from first principles — regime models, derivatives pricers, an order-book matching engine — and proving they're correct.
-
-- 🔭 Moving into **quant research / quant dev** roles
-- 🧠 Comfortable across **statistical ML, stochastic calculus, and systems C++**
-- 📜 **CFA Level I** · CFI FMVA · Bloomberg Market Concepts
-
-## 🛠️ Toolbox
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Featured projects
+### 📈 Alpha research & backtesting
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SOFR Swap P&L Attribution**](https://github.com/6ixE11even/sofr-swap-pnl-attribution) · *May 2026* | Bootstrap a SOFR curve, price swaps, attribute daily P&L into carry / roll-down / level-slope-curvature | `Python` |
-| [**Optimal Execution (Almgren–Chriss)**](https://github.com/6ixE11even/optimal-execution) · *May 2026* | Optimal liquidation trajectory + cost/risk efficient frontier; impact calibrated from Deribit | `Python` |
-| [**LOB Market-Manipulation Detection**](https://github.com/6ixE11even/lob-market-manipulation-detection) · *Apr 2026* | Unsupervised anomaly detection (Isolation Forest / ECOD / autoencoder) on HFT order books — Kaggle | `Python` `PyTorch` |
-| [**ML Algorithms From Scratch**](https://github.com/6ixE11even/ml-algorithms-from-scratch) · *Mar 2026* | Classic ML built by hand in NumPy, benchmarked to match scikit-learn | `NumPy` |
-| [**SABR Vol Calibration**](https://github.com/6ixE11even/sabr-vol-calibration) · *Mar 2026* | Calibrate the SABR smile (Hagan) to a live Deribit BTC option chain | `Python` |
-| [**HFT Matching Engine**](https://github.com/6ixE11even/hft-matching-engine) · *Feb 2026* | C++20 limit-order-book with O(1) ops + memory pool, ~35M msgs/sec | `C++20` |
-| [**Statistical Arbitrage Backtester**](https://github.com/6ixE11even/stat-arb-backtester) · *Jan 2026* | Cointegration pairs trading on live Deribit crypto, event-driven backtest | `Python` |
-| [**Macro-Regime Allocation**](https://github.com/6ixE11even/macro-regime-allocation) · *Dec 2025* | PCA + KMeans macro-regime detection driving a tactical asset-allocation backtest | `Python` |
-| [**Commodity Futures Analysis**](https://github.com/6ixE11even/commodity_futures_settlement_price_analysis) · *Nov 2025* | WTI / Henry Hub settlement anomalies + term structure, Streamlit dashboard | `Python` `Plotly` |
-| [**Prediction-Market Analytics**](https://github.com/6ixE11even/prediction-markets) · *Nov 2025* | Live Polymarket cross-outcome arbitrage + probability calibration | `Python` |
-| [**Options Pricing Engine**](https://github.com/6ixE11even/options-pricing-engine) · *Oct 2025* | C++ Black-Scholes / Monte Carlo / Crank-Nicolson FDM — European, American, Barrier | `C++20` |
+| [equity-xs-alpha](https://github.com/6ixE11even/equity-xs-alpha) | Cross-sectional signals → rank IC w/ Newey-West t-stats → cost-aware quintile portfolios → LightGBM combo under purged walk-forward CV. OOS net Sharpe 0.89 vs −0.63 naive baseline | Python, LightGBM |
+| [stat-arb-backtester](https://github.com/6ixE11even/stat-arb-backtester) | Event-driven pairs backtester on live crypto: Engle-Granger cointegration, z-score signals, transaction costs, no look-ahead | Python |
+| [macro-regime-allocation](https://github.com/6ixE11even/macro-regime-allocation) | PCA + K-Means regime classifier on 120+ macro indicators feeding mean-variance allocation; 2x equal-weight benchmark OOS | Python |
+| [prediction-markets](https://github.com/6ixE11even/prediction-markets) | Live Polymarket scanner for cross-outcome arbitrage in multi-outcome (neg-risk) events | Python |
 
-## 📈 GitHub stats
+### 🧮 Derivatives pricing & rates
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=6ixE11even&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ixE11even&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| [sofr-swap-pnl-attribution](https://github.com/6ixE11even/sofr-swap-pnl-attribution) | SOFR curve bootstrap, 500+ swap portfolio, daily P&L attribution into carry / roll-down / curve via key-rate durations; par swaps reprice to <1e-9 | Python |
+| [sabr-vol-calibration](https://github.com/6ixE11even/sabr-vol-calibration) | SABR (Hagan) calibrated to live Deribit BTC smiles; <0.04 vol-pt RMSE | Python |
+| [options-pricing-engine](https://github.com/6ixE11even/options-pricing-engine) | European/American/barrier options via Black-Scholes, Monte Carlo, Crank-Nicolson FDM; projected SOR for early exercise | C++20 |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6ixE11even&hide_border=true&theme=tokyonight" />
-</div>
+### ⚡ Market microstructure & low latency
 
-## 🧩 Competitive programming
+| Project | What it does | Stack |
+|---|---|---|
+| [hft-matching-engine](https://github.com/6ixE11even/hft-matching-engine) | Deterministic limit-order-book engine, O(1) insert/cancel/execute, zero-allocation memory pool; ~35M msgs/sec synchronous path | C++20 |
+| [lob-market-manipulation-detection](https://github.com/6ixE11even/lob-market-manipulation-detection) | Spoofing/layering detection over millions of L2 events; 27 microstructure features, IsolationForest/ECOD/autoencoder ensemble | Python |
+| [optimal-execution](https://github.com/6ixE11even/optimal-execution) | Almgren-Chriss closed-form optimal liquidation + cost/risk frontier, impact params calibrated from Deribit data | Python |
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/6ixE11even?theme=dark&font=Fira%20Code&ext=contest" width="500" />
-</div>
+### 🔬 ML foundations & commodities
 
-<div align="center">
-  <sub><i>Front-office quant in the making — always building. ⚡</i></sub>
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| [ml-algorithms-from-scratch](https://github.com/6ixE11even/ml-algorithms-from-scratch) | GBDT, random forest, SVM (SciPy dual), logistic regression, PCA from first principles, benchmarked vs scikit-learn | NumPy |
+| [commodity_futures_settlement_price_analysis](https://github.com/6ixE11even/commodity_futures_settlement_price_analysis) | WTI/Henry Hub settlement anomaly detection + term-structure dashboard over 60+ contract months | Python, Streamlit |
+
+---
+
+### 🧰 Toolbox
+
+`Python` `C++20` `SQL` &nbsp;|&nbsp; `pandas` `NumPy` `SciPy` `statsmodels` `scikit-learn` `LightGBM` `XGBoost` `PyTorch` `QuantLib` &nbsp;|&nbsp; `Bloomberg Terminal` `Git` `CMake` `pytest` `Linux`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6ixE11even&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ixE11even&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="langs" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6ixE11even&hide_border=true&theme=tokyonight" alt="streak" height="165">
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/6ixE11even?theme=dark&font=Fira%20Code&ext=contest" alt="leetcode" height="200">
+</p>
