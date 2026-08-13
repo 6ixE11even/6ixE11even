@@ -1,7 +1,7 @@
 <h1 align="center">Tejas Pandya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Alpha+research+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Low-latency+C%2B%2B;Seeking+2027+full-time+quant+roles+(NYC);&font=Fira+Code&center=true&width=620&height=45&color=06b6d4&vCenter=true&size=21&pause=1000" alt="headline">
+  <img src="https://readme-typing-svg.demolab.com/?lines=NYU+MSFE+(3.9)+%7C+ex-Nomura+Market+Risk;Alpha+research+%E2%80%A2+Derivatives+pricing+%E2%80%A2+Low-latency+C%2B%2B;Seeking+2027+full-time+quant+roles+(NYC);&font=Fira+Code&center=true&width=720&height=45&color=06b6d4&vCenter=true&size=19&pause=1000" alt="headline">
 </p>
 
 <p align="center">
